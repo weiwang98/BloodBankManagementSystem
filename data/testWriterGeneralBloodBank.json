@@ -1,0 +1,55 @@
+{
+    "totalAmountOfTypeO": 2000,
+    "totalAmountOfTypeB": 1000,
+    "totalAmountOfTypeAB": 1450,
+    "totalAmountOfTypeA": 1900,
+    "urgentPatientList": [
+        {
+            "isUrgent": true,
+            "requiredAmount": 20000,
+            "name": "Felix",
+            "bloodType": "A"
+        },
+        {
+            "isUrgent": true,
+            "requiredAmount": 10000,
+            "name": "John",
+            "bloodType": "AB"
+        }
+    ],
+    "location": "Calgary",
+    "donorList": [
+        {
+            "name": "Paul",
+            "weight": 60,
+            "bloodType": "A",
+            "age": 20
+        },
+        {
+            "name": "Lucy",
+            "weight": 70,
+            "bloodType": "AB",
+            "age": 21
+        },
+        {
+            "name": "Ann",
+            "weight": 60,
+            "bloodType": "A",
+            "age": 15
+        }
+    ],
+    "patientWaitList": [
+        {
+            "isUrgent": false,
+            "requiredAmount": 200,
+            "name": "Gregor",
+            "bloodType": "B"
+        },
+        {
+            "isUrgent": false,
+            "requiredAmount": 1200,
+            "name": "Mary",
+            "bloodType": "O"
+        }
+    ]
+}

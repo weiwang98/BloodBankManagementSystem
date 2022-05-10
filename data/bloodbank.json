@@ -1,0 +1,10 @@
+{
+    "totalAmountOfTypeO": 2000,
+    "totalAmountOfTypeB": 1000,
+    "totalAmountOfTypeAB": 1000,
+    "totalAmountOfTypeA": 1450,
+    "urgentPatientList": [],
+    "location": "Vancouver",
+    "donorList": [],
+    "patientWaitList": []
+}
