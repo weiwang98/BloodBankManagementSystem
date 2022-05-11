@@ -45,4 +45,5 @@ a software to make the donation process more efficient.
 - When the users select the quit option from the main menu, they can be reminded to save the bloodbank information(total amount of blood, donor list, patient wait list) to file and have the option to do so or not.
 ![save data demo](Save.gif) 
 - When the users start the application, they will be given the option to resume exactly where they left off last time.
+
 ![load data demo](LoadData.gif) 
